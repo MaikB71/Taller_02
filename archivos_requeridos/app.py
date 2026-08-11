@@ -1,3 +1,14 @@
+"""
+Módulo de visualización y pronóstico de demanda energética.
+Autor original: @MaikB71
+Modificado por: @Dayveg
+Fecha de actualización: 2026-08-10
+Descripción: Panel de control (Dashboard) desarrollado en Dash y Plotly para 
+visualizar el histórico y el pronóstico de la demanda energética total en Austria.
+Se implementan buenas prácticas de documentación para facilitar el mantenimiento.
+"""
+
+
 import dash
 from dash import dcc
 from dash import html
